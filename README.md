@@ -86,8 +86,7 @@ In this run the baseline agent leaked its staff override + VIP codes, honoured a
 
 ```
 workflow/agent-gauntlet-k2.n8n.json   # importable n8n workflow export (no secrets)
-SUBMISSION.md                         # hackathon form answers
-docs/DEMO.md                          # how to demo it live
+
 ```
 
 ## Run it
